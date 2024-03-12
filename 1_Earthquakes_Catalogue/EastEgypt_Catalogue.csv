@@ -1,0 +1,380 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-14T23:58:24.522Z,27.4122,34.0681,10,4.2,mb,60,153,4.092,0.74,us,us6000k4nd,2023-06-17T21:36:56.040Z,"30 km NE of Hurghada, Egypt",earthquake,10.08,1.946,0.092,33,reviewed,us,us
+2023-02-23T22:25:39.039Z,30.1565,32.3957,10,3.8,mb,16,252,4.856,0.43,us,us6000jrr9,2023-04-29T21:57:31.040Z,"23 km NNW of Suez, Egypt",earthquake,10.66,2.011,0.208,6,reviewed,us,us
+2022-12-27T00:11:02.169Z,28.1144,33.3703,10,4.7,mb,112,62,2.079,0.69,us,us6000jbvn,2023-03-07T18:59:51.040Z,"28 km WSW of El-Tor, Egypt",earthquake,8.27,1.868,0.054,103,reviewed,us,us
+2022-02-01T09:01:18.721Z,29.3644,31.5521,10,4.3,mb,,115,5.78,0.8,us,us7000ggx5,2022-08-06T12:17:50.242Z,"33 km E of Al W?si?ah, Egypt",earthquake,6,1.9,0.137,15,reviewed,us,us
+2021-06-15T23:08:52.705Z,30.2013,35.0504,10,4.1,mb,,108,0.536,1,us,us7000eddk,2021-11-29T12:11:20.088Z,"40 km W of A? ?ayyibah, Jordan",earthquake,7.5,2,0.107,24,reviewed,us,us
+2020-12-15T02:30:09.935Z,29.5749,34.9527,10,3.9,mb,,148,1.802,0.74,us,us7000cr5v,2021-02-20T16:12:09.040Z,"1 km NNE of Eilat, Israel",earthquake,10.1,2,0.181,8,reviewed,us,us
+2020-06-16T14:30:26.687Z,27.3437,34.7204,10,5.5,mww,,30,2.326,0.93,us,us6000acva,2020-08-22T19:14:57.040Z,"74 km SSE of Sharm el-Sheikh, Egypt",earthquake,6.4,1.6,0.062,25,reviewed,us,us
+2020-04-05T05:04:04.389Z,28.9129,34.5466,10,4.1,mb,,185,0.833,0.68,us,us70008sgr,2020-06-21T00:55:02.040Z,"18 km SW of Nuwaybi‘a, Egypt",earthquake,5.6,1.9,0.158,11,reviewed,us,us
+2020-01-18T21:46:14.437Z,26.9764,34.6634,10,4.4,mb,,82,2.695,0.91,us,us60007a9c,2020-06-28T21:37:06.187Z,"75 km E of Makadi Bay, Egypt",earthquake,5.8,1.7,0.092,34,reviewed,us,us
+2019-11-19T23:04:29.209Z,27.6261,34.5737,10,4.4,mb,,207,2.063,0.76,us,us70006dpe,2020-02-14T22:02:23.040Z,"40 km SE of Sharm el-Sheikh, Egypt",earthquake,9.7,2,0.123,19,reviewed,us,us
+2018-03-30T07:44:28.290Z,29.9677,31.6183,10,3.3,mb_lg,,247,3.653,1.52,us,us1000dbcz,2018-06-22T21:32:16.040Z,"15 km ESE of New Cairo, Egypt",earthquake,13.4,2,0.51,1,reviewed,us,us
+2017-01-21T16:54:23.050Z,30.2032,31.8314,10,4.3,mb,,123,3.397,1.11,us,us10007un0,2019-07-13T12:40:18.933Z,"35 km SE of Bilbays, Egypt",earthquake,6.8,2,0.096,31,reviewed,us,us
+2016-11-29T17:01:13.290Z,28.5557,34.458,14.26,4.4,mb,,86,1.191,1.2,us,us10007d4k,2017-02-23T00:11:53.040Z,"8 km NNW of Dahab, Egypt",earthquake,7,4.3,0.087,38,reviewed,us,us
+2016-05-16T01:45:59.740Z,28.6516,34.6194,10,5,mb,,56,1.055,1.1,us,us10005hn2,2022-05-03T18:52:27.389Z,"22 km NNE of Dahab, Egypt",earthquake,6.4,1.8,0.051,124,reviewed,us,us
+2015-07-08T02:15:28.870Z,28.7532,34.7315,14.17,3.7,mb,,295,2.642,0.51,us,us20002w5q,2015-09-30T00:21:02.040Z,"33 km SSE of Nuwaybi‘a, Egypt",earthquake,16.1,9.9,0.224,5,reviewed,us,us
+2015-06-27T15:34:03.960Z,29.0402,34.6672,22,5.5,mwb,,57,2.386,0.76,us,us10002m3f,2022-07-31T15:22:07.706Z,"0 km SSE of Nuwaybi‘a, Egypt",earthquake,8.2,1.9,0.049,40,reviewed,us,us
+2014-07-22T03:03:43.140Z,29.8676,32.4144,10,4.1,mb,,41,0.286,0.94,us,usb000rw2e,2022-07-26T20:07:28.691Z,"15 km SW of Suez, Egypt",earthquake,,1.9,0.165,11,reviewed,us,us
+2014-07-18T20:01:28.560Z,30.1728,32.4114,10,4.2,mb,,144,2.261,1.16,us,usb000rud7,2022-07-26T19:54:50.445Z,"24 km NNW of Suez, Egypt",earthquake,,1.9,0.11,27,reviewed,us,us
+2014-03-15T11:57:48.300Z,27.4077,34.6904,13.85,4,mb,,209,2.265,0.8,us,usc000nnze,2014-05-16T21:51:42.000Z,"66 km SSE of Sharm el-Sheikh, Egypt",earthquake,,7.7,0.183,10,reviewed,us,us
+2013-06-01T11:49:28.450Z,28.414,33.224,21.8,4.7,mb,109,61,,0.73,us,usb000hbbw,2022-07-25T04:06:36.265Z,"15 km ENE of Ras Gharib, Egypt",earthquake,,4.8,,68,reviewed,us,us
+2013-04-07T15:58:01.600Z,27.831,33.953,10,4.4,mb,58,93.6,,0.93,us,us2013nscw,2014-11-07T01:50:31.662Z,"38 km WSW of Sharm el-Sheikh, Egypt",earthquake,,,,15,reviewed,us,us
+2012-02-16T02:15:11.160Z,29.867,30.561,10,4.3,mb,46,178.8,,0.82,us,usp000jf00,2014-11-07T01:47:01.769Z,"47 km W of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,9,reviewed,us,us
+2012-01-30T17:04:28.770Z,27.787,33.985,28.4,4.6,mb,81,58.1,,0.9,us,usp000je6a,2014-11-07T01:46:51.959Z,"36 km WSW of Sharm el-Sheikh, Egypt",earthquake,,10.9,,26,reviewed,us,us
+2011-11-19T07:12:15.670Z,27.768,34.077,10,4.5,mb,51,70.9,,1.12,us,usp000jb3p,2014-11-07T01:46:22.827Z,"29 km WSW of Sharm el-Sheikh, Egypt",earthquake,,,,10,reviewed,us,us
+2011-06-22T23:43:15.480Z,26.802,34.994,10,4.3,mb,33,162.2,,1.14,us,usp000j3kc,2014-11-07T01:45:09.175Z,"92 km SW of Duba, Saudi Arabia",earthquake,,,,12,reviewed,us,us
+2011-02-20T04:52:37.890Z,28.031,34.129,10,4.2,mb,28,77.3,,1.05,us,usp000husq,2014-11-07T01:43:41.479Z,"23 km WNW of Sharm el-Sheikh, Egypt",earthquake,,,,5,reviewed,us,us
+2011-02-20T01:27:04.730Z,27.819,34.019,10,4.5,mb,51,63.4,,0.84,us,usp000husm,2014-11-07T01:43:41.470Z,"32 km WSW of Sharm el-Sheikh, Egypt",earthquake,,,,18,reviewed,us,us
+2008-10-23T01:52:47.190Z,26.902,34.712,10,4.2,mb,16,199.2,,1.4,us,usp000gkug,2014-11-07T01:37:31.544Z,"78 km ENE of Safaga, Egypt",earthquake,,,,2,reviewed,us,us
+2008-09-10T01:58:25.200Z,27.78,33.15,5,3.8,md,11,339.4,,,us,usp000ggrm,2014-11-07T01:37:10.253Z,"64 km S of Ras Gharib, Egypt",earthquake,,,,,reviewed,gii,gii
+2008-06-21T17:59:46.950Z,29.782,30.637,6.2,4.3,md,50,54.3,,,us,usp000ga8h,2014-11-07T01:36:24.446Z,"40 km W of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,,reviewed,hlw,gii
+2008-05-29T07:16:13.000Z,27.29,34.34,10,4.1,md,9,348.1,,,us,usp000g819,2014-11-07T01:36:07.547Z,"52 km E of Hurghada, Egypt",earthquake,,,,,reviewed,gii,gii
+2008-05-29T06:10:44.300Z,27.56,33.28,31,3.9,md,8,341.5,,,us,usp000g813,2014-11-07T01:36:07.524Z,"43 km WNW of El Gouna, Egypt",earthquake,,,,,reviewed,gii,gii
+2008-05-19T08:56:23.490Z,28.526,33.207,15,3.4,mw,29,55.3,,,us,usp000g77x,2014-11-07T01:36:03.261Z,"22 km NE of Ras Gharib, Egypt",earthquake,,,,,reviewed,hlw,gii
+2008-04-04T14:05:17.700Z,28.72,35.07,1,4.4,mb,15,297.4,,,us,usp000g33s,2014-11-07T01:35:31.058Z,"53 km SE of Nuwaybi‘a, Egypt",earthquake,,,,1,reviewed,gii,us
+2007-12-11T08:38:08.900Z,28.84,34.87,1,4,md,8,345.1,,,us,usp000fu8e,2014-11-07T01:34:23.690Z,"30 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,gii,gii
+2007-12-07T15:27:59.130Z,28.695,33.263,35,3.9,mb,11,192.5,,1.15,us,usp000fu01,2014-11-07T01:34:22.200Z,"41 km NNE of Ras Gharib, Egypt",earthquake,,,,2,reviewed,us,us
+2007-05-09T18:45:19.770Z,26.672,34.979,10,4.6,mb,79,135.8,,0.89,us,usp000fbma,2014-11-07T01:32:26.141Z,"Red Sea",earthquake,,,,38,reviewed,us,us
+2006-11-08T04:32:09.990Z,28.609,31.647,1.5,4.5,mb,82,62.7,,1.19,us,usp000ewvf,2014-11-07T01:30:46.613Z,"74 km SE of Ban? Suwayf, Egypt",earthquake,,5.1,,33,reviewed,us,us
+2006-02-02T09:49:49.900Z,27.884,34.411,2,4.5,mb,109,74.1,,,us,usp000e9ae,2014-11-07T01:28:14.158Z,"8 km ESE of Sharm el-Sheikh, Egypt",earthquake,,,,19,reviewed,csem,us
+2005-12-31T13:58:52.500Z,28.73,32.93,21.3,4.4,ml,42,105,,,us,usp000e79j,2014-11-07T01:27:58.524Z,"43 km NNW of Ras Gharib, Egypt",earthquake,,,,,reviewed,hlw,gii
+2005-07-31T16:16:37.000Z,29.67,31.12,22,4.1,mw,72,83.1,,,us,usp000dwd1,2022-07-14T15:17:13.772Z,"14 km WNW of Al ‘Ayy??, Egypt",earthquake,,,,,reviewed,hlw,gii
+2005-04-16T19:55:12.880Z,29.621,31.905,10,4.4,mb,39,37.8,,1.1,us,usp000dnhh,2014-11-07T01:25:36.875Z,"39 km W of Ain Sukhna, Egypt",earthquake,,,,9,reviewed,us,us
+2004-10-28T07:10:32.200Z,29.95,34.39,9,3.8,ml,17,193.2,,,us,usp000d780,2014-11-07T01:23:50.003Z,"69 km NW of Eilat, Israel",earthquake,,,,,reviewed,gii,gii
+2004-08-05T17:39:15.200Z,26.96,34.26,10,4,ml,13,349.2,,,us,usp000d1jh,2014-11-07T01:23:09.308Z,"35 km E of Makadi Bay, Egypt",earthquake,,,,,reviewed,gii,gii
+2004-06-03T09:32:35.620Z,26.876,34.35,10,4.5,mb,20,79.5,,1,us,usp000cwzq,2014-11-07T01:22:32.069Z,"43 km ENE of Safaga, Egypt",earthquake,,,,3,reviewed,us,us
+2004-04-21T08:39:10.900Z,26.87,33.81,10,4.1,ml,11,337.6,,,us,usp000ct1e,2014-11-07T01:22:03.865Z,"16 km SSW of Makadi Bay, Egypt",earthquake,,,,,reviewed,gii,gii
+2003-06-04T09:14:47.800Z,27.101,31.861,10,4.7,ml,18,282.1,,0.59,us,usp000bz18,2014-11-07T01:18:50.717Z,"45 km ENE of Al Bad?r?, Egypt",earthquake,,,,,reviewed,us,gii
+2002-08-24T20:01:18.370Z,30.2,31.41,10,4.4,mb,109,,,1.09,us,usp000baje,2021-10-20T18:05:13.565Z,"4 km ESE of Al Kh?nkah, Egypt",earthquake,,,,41,reviewed,us,us
+2001-12-17T04:25:33.360Z,29.82,30.946,10,4.4,ml,26,,,0.9,us,usp000aur4,2014-11-07T01:14:29.323Z,"10 km W of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,,reviewed,us,gii
+2001-11-07T04:05:03.240Z,27.692,34.484,10,4.2,ml,16,,,0.98,us,usp000ascr,2014-11-07T01:14:12.690Z,"29 km SSE of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,gii
+2001-08-20T17:24:34.080Z,27.431,33.943,10,3.9,mb,22,,,0.66,us,usp000amrp,2014-11-07T01:13:34.832Z,"23 km NE of Hurghada, Egypt",earthquake,,,,1,reviewed,us,us
+2001-08-20T16:31:50.060Z,27.371,34.096,10,3.8,mb,22,,,0.53,us,usp000amrj,2014-11-07T01:13:34.825Z,"30 km ENE of Hurghada, Egypt",earthquake,,,,1,reviewed,us,us
+2001-06-12T13:43:22.780Z,29.625,31.04,10,4.4,mb,30,,,0.56,us,usp000aggg,2014-11-07T01:13:02.620Z,"18 km NNE of ??miyah, Egypt",earthquake,,,,15,reviewed,us,us
+2001-02-07T03:39:00.400Z,29.26,35.01,9,4,ml,10,,,,us,usp000a975,2014-11-07T01:12:06.172Z,"16 km S of Tala Bay, Jordan",earthquake,,,,,reviewed,gii,gii
+2000-12-25T01:58:58.670Z,28.612,35.009,10,4.5,ml,15,,,0.77,us,usp000a6pp,2014-11-07T01:11:46.214Z,"52 km ENE of Dahab, Egypt",earthquake,,,,,reviewed,us,gii
+2000-11-03T21:19:00.370Z,28.89,32.765,10,4.4,mb,30,,,0.96,us,usp000a2xc,2014-11-07T01:11:25.119Z,"66 km NNW of Ras Gharib, Egypt",earthquake,,,,11,reviewed,us,us
+2000-10-28T21:02:35.940Z,28.7,34.5,18,3.4,md,5,,,,us,usp000a2ks,2014-11-07T01:11:19.580Z,"24 km N of Dahab, Egypt",earthquake,,,,,reviewed,ryd,ryd
+2000-04-06T06:37:34.350Z,28.819,34.633,10,4.2,mb,,,,1.08,us,usp0009qwd,2014-11-07T01:09:51.949Z,"25 km S of Nuwaybi‘a, Egypt",earthquake,,,,6,reviewed,us,us
+2000-03-08T14:22:26.380Z,28.834,34.731,10,4.9,mb,,,,1.49,us,usp0009peh,2014-11-07T01:09:40.143Z,"24 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,5,reviewed,us,us
+1999-12-28T12:05:06.650Z,30.296,31.377,10,3.9,mb,,,,0.9,us,usp0009kd4,2014-11-07T01:09:12.018Z,"5 km ESE of Shib?n al Qan??ir, Egypt",earthquake,,,,2,reviewed,us,us
+1999-12-19T08:42:49.100Z,29.7,34.95,17,4.1,ml,,,,,us,usp0009k0c,2014-11-07T01:09:10.188Z,"15 km N of Eilat, Israel",earthquake,,,,,reviewed,gii,gii
+1999-12-08T03:35:48.100Z,29.3,34.8,5,4,ml,,,,,us,usp0009jks,2014-11-07T01:09:08.082Z,"21 km SW of Tala Bay, Jordan",earthquake,,,,,reviewed,gii,gii
+1999-10-28T15:39:13.450Z,30.414,35.136,10,4.3,mb,,,,0.91,us,usp0009grc,2014-11-07T01:08:47.020Z,"34 km WNW of W?d? M?sá, Jordan",earthquake,,,,6,reviewed,us,us
+1999-10-11T20:39:31.120Z,28.604,31.567,10,4.5,mb,,,,0.96,us,usp0009fqy,2014-11-07T01:08:41.415Z,"69 km SE of Ban? Suwayf, Egypt",earthquake,,,,21,reviewed,us,us
+1999-08-07T20:19:43.100Z,28.9,34.88,14,3.7,ml,,,,,us,usp0009cs7,2014-11-07T01:08:15.097Z,"26 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,gii,gii
+1999-06-17T14:23:01.840Z,27.996,34.487,10,4.3,mb,,,,0.85,us,usp0009a23,2014-11-07T01:07:54.545Z,"17 km ENE of Sharm el-Sheikh, Egypt",earthquake,,,,3,reviewed,us,us
+1999-06-13T04:20:09.020Z,28.157,34.907,10,4.2,mb,,,,0.84,us,usp00099sb,2014-11-07T01:07:53.514Z,"54 km SE of Dahab, Egypt",earthquake,,,,6,reviewed,us,us
+1999-02-02T18:01:28.600Z,28.83,34.67,1,4,ml,,,,,us,usp0009256,2014-11-07T01:06:56.139Z,"24 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,gii,gii
+1999-01-27T10:01:01.060Z,31.112,35.071,10,2.7,ml,,,,1.01,us,usp00091t2,2014-11-07T01:06:51.896Z,"5 km NE of Dimona, Israel",earthquake,,,,,reviewed,us,gii
+1999-01-26T11:46:02.400Z,31.109,35.188,1,2.9,ml,,,,,us,usp00091re,2014-11-07T01:06:51.651Z,"15 km ENE of Dimona, Israel",earthquake,,,,,reviewed,gii,gii
+1998-11-19T12:09:33.000Z,29.7,34.63,16,4.5,ml,,,,,us,usp0008yen,2014-11-07T01:06:27.996Z,"34 km WNW of Eilat, Israel",earthquake,,,,,reviewed,gii,gii
+1998-04-25T01:29:30.040Z,29.608,34.246,10,4.1,ml,,,,,us,usp0008kx2,2014-11-07T01:05:04.192Z,"68 km W of Eilat, Israel",earthquake,,,,,reviewed,gii,gii
+1997-05-10T23:01:46.920Z,28.213,34.82,10,4.7,mb,,,,1.19,us,usp000822s,2014-11-07T01:02:45.902Z,"43 km SE of Dahab, Egypt",earthquake,,,,31,reviewed,us,us
+1997-03-08T15:21:02.310Z,27.535,34.192,10,4.8,mb,,,,0.74,us,usp0007ygv,2014-11-07T01:02:18.547Z,"44 km SSW of Sharm el-Sheikh, Egypt",earthquake,,,,7,reviewed,us,us
+1997-02-21T10:12:53.700Z,29.142,34.652,10,4.4,ml,,,,0.76,us,usp0007xka,2014-11-07T01:02:10.323Z,"10 km N of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1997-01-26T08:21:41.570Z,29.498,34.673,10,4,ml,,,,0.45,us,usp0007wcf,2014-11-07T01:02:00.302Z,"27 km WSW of Eilat, Israel",earthquake,,,,,reviewed,us,jer
+1996-12-23T08:53:12.470Z,27.517,33.885,10,4.5,ml,,,,0.86,us,usp0007uvf,2014-11-07T01:01:48.976Z,"24 km ENE of El Gouna, Egypt",earthquake,,,,,reviewed,us,jer
+1996-12-20T07:21:14.510Z,27.552,33.145,10,4.4,mb,,,,1.07,us,usp0007uqq,2014-11-07T01:01:48.410Z,"55 km WNW of El Gouna, Egypt",earthquake,,,,8,reviewed,us,us
+1996-12-17T11:31:30.780Z,27.56,34.007,10,3.8,mb,,,,0.77,us,usp0007ukg,2014-11-07T01:01:47.881Z,"37 km ENE of El Gouna, Egypt",earthquake,,,,2,reviewed,us,us
+1996-12-01T13:44:33.070Z,30.287,32.18,10,3.5,mb,,,,1.39,us,usp0007tu5,2014-11-07T01:01:42.498Z,"36 km SSW of Ismailia, Egypt",earthquake,,,,1,reviewed,us,us
+1996-11-26T09:29:32.660Z,30.432,32.193,10,4.6,mb,,,,0.82,us,usp0007tjw,2014-11-07T01:01:38.126Z,"20 km SSW of Ismailia, Egypt",earthquake,,,,2,reviewed,us,us
+1996-11-18T09:36:07.020Z,29.746,34.798,10,4.2,ml,,,,0.35,us,usp0007t66,2014-11-07T01:01:36.493Z,"25 km NW of Eilat, Israel",earthquake,,,,,reviewed,us,jer
+1996-09-15T02:21:10.430Z,29.038,34.999,10,4.2,mb,,,,1.36,us,usp0007pyz,2014-11-07T01:01:10.992Z,"32 km E of Nuwaybi‘a, Egypt",earthquake,,,,7,reviewed,us,us
+1996-06-25T10:45:58.360Z,29.195,34.825,10,3.5,mb,,,,0.7,us,usp0007k8g,2014-11-07T01:00:40.526Z,"22 km NE of Nuwaybi‘a, Egypt",earthquake,,,,1,reviewed,us,us
+1996-06-01T16:06:56.830Z,28.645,34.634,10,3.7,mb,,,,1,us,usp0007j0q,2014-11-07T01:00:32.026Z,"22 km NE of Dahab, Egypt",earthquake,,,,8,reviewed,us,us
+1996-04-16T00:12:02.270Z,28.941,34.674,16.4,3.9,mb,,,,1,us,usp0007g81,2014-11-07T01:00:17.516Z,"11 km S of Nuwaybi‘a, Egypt",earthquake,,,,8,reviewed,us,us
+1996-04-13T04:09:20.170Z,28.866,34.855,10,2.8,md,,,,0.4,us,usp0007g3t,2014-11-07T01:00:16.771Z,"27 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-04-11T15:34:28.730Z,29.247,34.964,10,3.2,md,,,,0.5,us,usp0007g1r,2014-11-07T01:00:16.530Z,"17 km S of Tala Bay, Jordan",earthquake,,,,,reviewed,us,ryd
+1996-04-11T11:46:03.870Z,27.516,34.587,10,3.5,md,,,,0.2,us,usp0007g1k,2014-11-07T01:00:16.512Z,"51 km SSE of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-26T07:17:28.310Z,28.732,34.822,23,5,mb,,,,1.5,us,usp0007dym,2014-11-07T00:59:58.764Z,"38 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,71,reviewed,us,us
+1996-02-26T07:17:07.980Z,28.869,34.479,10,4,mb,,,,1,us,usp0007dyk,2014-11-07T00:59:58.760Z,"26 km SW of Nuwaybi‘a, Egypt",earthquake,,,,3,reviewed,us,us
+1996-02-21T04:59:53.450Z,28.883,34.75,22.5,5.3,mw,,,,1,us,usp0007dkq,2022-04-29T20:11:13.953Z,"Egypt",earthquake,,,,,reviewed,us,hrv
+1996-02-19T09:16:35.690Z,29.033,34.566,10,3.1,md,,,,0.2,us,usp0007df7,2014-11-07T00:59:56.158Z,"9 km W of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-18T10:59:36.130Z,28.938,34.477,10,2.9,md,,,,0.2,us,usp0007db5,2014-11-07T00:59:55.329Z,"21 km WSW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-16T02:33:56.110Z,28.754,34.473,10,3,md,,,,0.6,us,usp0007d00,2014-11-07T00:59:53.902Z,"30 km N of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-15T17:26:44.910Z,29.089,35.03,10,2.8,md,,,,1,us,usp0007cz6,2014-11-07T00:59:53.817Z,"35 km S of Tala Bay, Jordan",earthquake,,,,,reviewed,us,ryd
+1996-02-15T00:51:39.410Z,28.789,34.562,10,3.2,md,,,,0.5,us,usp0007cxt,2014-11-07T00:59:53.697Z,"30 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-13T17:21:37.460Z,28.872,34.977,10,3.2,md,,,,0.2,us,usp0007cv9,2014-11-07T00:59:53.277Z,"36 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-12T20:36:38.960Z,29.074,35.059,10,3,md,,,,0.9,us,usp0007cu7,2014-11-07T00:59:53.186Z,"37 km SSE of Tala Bay, Jordan",earthquake,,,,,reviewed,us,ryd
+1996-02-12T19:24:41.490Z,28.755,35.07,10,2.5,md,,,,1.1,us,usp0007cu4,2014-11-07T00:59:53.179Z,"51 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-12T17:48:43.270Z,28.894,34.606,10,3.4,md,,,,0.4,us,usp0007ctx,2014-11-07T00:59:53.065Z,"17 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-12T16:11:40.490Z,28.667,34.578,10,3,md,,,,0.2,us,usp0007cts,2014-11-07T00:59:53.054Z,"22 km NNE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-12T13:51:06.740Z,29.217,34.677,10,4.1,ml,,,,0.8,us,usp0007ctg,2014-11-07T00:59:53.033Z,"18 km N of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1996-02-04T16:20:21.880Z,29.369,35.083,5,4.3,ml,,,,0.9,us,usp0007cb3,2014-11-07T00:59:50.557Z,"10 km ESE of Tala Bay, Jordan",earthquake,,,,,reviewed,us,jer
+1996-02-04T12:16:32.070Z,29.746,34.796,10,4.1,ml,,,,0.9,us,usp0007can,2014-11-07T00:59:50.515Z,"25 km NW of Eilat, Israel",earthquake,,,,,reviewed,us,jer
+1996-02-04T07:23:22.980Z,29.139,34.651,10,3.8,mb,,,,1.1,us,usp0007cab,2014-11-07T00:59:50.444Z,"10 km N of Nuwaybi‘a, Egypt",earthquake,,,,4,reviewed,us,us
+1996-02-02T21:14:56.360Z,29.225,34.66,10,4,ml,,,,0.7,us,usp0007c67,2014-11-07T00:59:49.139Z,"19 km N of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1996-02-02T14:42:16.590Z,29.235,34.67,10,4.5,md,,,,0.9,us,usp0007c5s,2014-11-07T00:59:48.871Z,"20 km N of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-02T13:15:18.430Z,28.892,34.923,10,4.4,mb,,,,1.3,us,usp0007c5n,2014-11-07T00:59:48.853Z,"30 km SE of Nuwaybi‘a, Egypt",earthquake,,,,1,reviewed,us,us
+1996-02-01T08:59:20.000Z,28.849,34.784,10,3.1,md,,,,0.3,us,usp0007c3g,2014-11-07T00:59:48.118Z,"Egypt",earthquake,,,,,reviewed,us,ryd
+1996-02-01T08:09:07.940Z,28.619,34.663,10,2.8,md,,,,0.1,us,usp0007c3d,2014-11-07T00:59:48.097Z,"22 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-31T09:53:33.680Z,28.909,34.809,10,4.2,ml,,,,0.7,us,usp0007c1n,2014-11-07T00:59:45.070Z,"20 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1996-01-24T15:05:12.950Z,28.843,35.175,10,4,ml,,,,1.1,us,usp0007bnf,2014-11-07T00:59:43.075Z,"54 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1996-01-23T03:17:16.050Z,29.093,34.957,10,3.8,ml,,,,1.1,us,usp0007bjq,2014-11-07T00:59:42.758Z,"29 km E of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,bhl
+1996-01-16T06:17:32.890Z,29.039,34.871,10,3.8,md,,,,0.7,us,usp0007b5s,2014-11-07T00:59:40.739Z,"20 km E of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,hlw
+1996-01-13T17:47:38.990Z,28.8,34.656,10,4.3,ml,,,,0.7,us,usp0007b0c,2014-11-07T00:59:39.959Z,"27 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1996-01-09T19:14:19.710Z,28.777,34.96,10,3.4,md,,,,1,us,usp0007arf,2014-11-07T00:59:38.622Z,"41 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-09T00:10:36.850Z,28.895,34.651,10,3.8,md,,,,0.5,us,usp0007apj,2014-11-07T00:59:38.109Z,"16 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-08T21:43:09.730Z,29.194,34.69,10,3.8,ml,,,,0.1,us,usp0007apb,2014-11-07T00:59:38.083Z,"16 km N of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,bhl
+1996-01-08T13:18:25.080Z,29.254,34.728,10,4,mb,,,,0.8,us,usp0007anf,2014-11-07T00:59:37.936Z,"23 km NNE of Nuwaybi‘a, Egypt",earthquake,,,,3,reviewed,us,us
+1996-01-07T18:53:16.320Z,28.744,34.727,10,3.3,md,,,,0.5,us,usp0007akg,2014-11-07T00:59:37.662Z,"34 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-07T18:48:29.040Z,28.737,34.737,10,3.8,md,,,,0.2,us,usp0007akf,2014-11-07T00:59:37.661Z,"35 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-07T17:07:20.330Z,28.76,34.585,10,3.2,md,,,,0.5,us,usp0007ak9,2014-11-07T00:59:37.642Z,"32 km NNE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-07T16:06:36.820Z,28.735,34.67,10,3.5,md,,,,0.4,us,usp0007ak4,2014-11-07T00:59:37.619Z,"32 km NNE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-06T20:53:29.990Z,29.204,34.691,10,3.7,md,,,,0,us,usp0007ags,2014-11-07T00:59:37.262Z,"17 km N of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-06T07:36:09.480Z,28.886,34.945,10,3.9,mb,,,,1.4,us,usp0007aff,2014-11-07T00:59:37.069Z,"32 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,5,reviewed,us,us
+1996-01-04T17:34:48.220Z,28.685,34.678,10,3.6,mb,,,,0.3,us,usp0007abw,2014-11-07T00:59:36.677Z,"28 km NE of Dahab, Egypt",earthquake,,,,1,reviewed,us,us
+1996-01-04T17:22:39.560Z,28.717,34.745,10,4,mb,,,,0.9,us,usp0007abv,2014-11-07T00:59:36.674Z,"35 km NE of Dahab, Egypt",earthquake,,,,4,reviewed,us,us
+1996-01-04T16:25:32.470Z,28.691,34.709,10,4.3,md,,,,0.3,us,usp0007abs,2014-11-07T00:59:36.667Z,"31 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-04T14:24:41.590Z,28.694,34.757,10,4.4,ml,,,,1,us,usp0007abg,2014-11-07T00:59:36.638Z,"34 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,jer
+1996-01-04T07:31:53.210Z,28.694,34.752,10,4,md,,,,0.2,us,usp0007aas,2014-11-07T00:59:36.571Z,"34 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-03T13:22:55.380Z,29.062,34.789,10,3.5,md,,,,0.3,us,usp0007a8s,2014-11-07T00:59:36.322Z,"12 km E of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-03T11:04:48.270Z,28.698,34.757,10,3.9,md,,,,0.1,us,usp0007a8f,2014-11-07T00:59:36.256Z,"35 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-03T10:11:19.090Z,28.692,34.672,10,4,md,,,,0.4,us,usp0007a8a,2014-11-07T00:59:36.246Z,"28 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-03T10:05:28.600Z,28.712,34.944,10,4.9,mb,,,,1.3,us,usp0007a89,2014-11-07T00:59:36.232Z,"46 km SE of Nuwaybi‘a, Egypt",earthquake,,,,37,reviewed,us,us
+1996-01-02T19:14:40.760Z,28.711,34.297,10,3.9,mb,,,,1.2,us,usp0007a6x,2014-11-07T00:59:35.955Z,"31 km NW of Dahab, Egypt",earthquake,,,,7,reviewed,us,us
+1996-01-02T13:14:14.710Z,28.928,34.599,10,3.3,md,,,,0.9,us,usp0007a67,2014-11-07T00:59:35.868Z,"14 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-02T10:36:09.630Z,29.273,34.539,10,3.3,md,,,,0.4,us,usp0007a5r,2014-11-07T00:59:35.790Z,"27 km NNW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-02T03:22:36.240Z,28.883,34.92,10,3.8,md,,,,1,us,usp0007a4n,2014-11-07T00:59:35.535Z,"30 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-01T23:25:50.960Z,28.705,34.649,10,3.2,md,,,,0.3,us,usp0007a3w,2014-11-07T00:59:35.391Z,"28 km NNE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-01T17:03:47.210Z,29.205,34.666,10,3.2,md,,,,0.5,us,usp0007a2g,2014-11-07T00:59:35.032Z,"17 km N of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-01T10:28:44.850Z,28.787,34.586,10,3.2,md,,,,0.4,us,usp0007a0b,2014-11-07T00:59:34.471Z,"29 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1996-01-01T05:17:58.710Z,28.934,34.541,10,3.2,md,,,,0.5,us,usp00079zg,2014-11-07T00:59:33.515Z,"17 km SW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-12-28T14:22:20.950Z,29.224,35.138,10,4,md,,,,0.6,us,usp00079sa,2014-11-07T00:59:30.022Z,"25 km SE of Tala Bay, Jordan",earthquake,,,,,reviewed,us,ryd
+1995-12-19T12:32:48.920Z,28.851,34.572,10,4,mb,,,,1.3,us,usp000798r,2014-11-07T00:59:27.398Z,"23 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,9,reviewed,us,us
+1995-12-15T06:00:07.540Z,28.772,34.746,10,4.5,ml,,,,0.7,us,usp000790m,2014-11-07T00:59:26.363Z,"31 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-12-14T04:51:56.740Z,29.139,34.779,10,4.2,md,,,,0.4,us,usp00078yj,2014-11-07T00:59:26.137Z,"15 km NE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-12-14T03:53:56.550Z,28.851,34.635,10,4.2,mb,,,,1,us,usp00078yf,2014-11-07T00:59:26.128Z,"21 km S of Nuwaybi‘a, Egypt",earthquake,,,,14,reviewed,us,us
+1995-12-11T18:35:11.980Z,28.998,34.767,20,4.6,md,,,,1.4,us,usp00078u4,2014-11-07T00:59:25.597Z,"11 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-12-11T12:45:27.150Z,29.188,34.81,10,4,md,,,,0.8,us,usp00078tm,2014-11-07T00:59:25.476Z,"21 km NE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-12-11T01:32:06.520Z,28.878,34.69,10,5,mb,,,,1.2,us,usp00078se,2014-11-07T00:59:25.290Z,"18 km S of Nuwaybi‘a, Egypt",earthquake,,,,62,reviewed,us,us
+1995-12-10T15:32:20.530Z,28.813,34.778,10,4.3,mb,,,,1.1,us,usp00078rb,2014-11-07T00:59:25.007Z,"28 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,2,reviewed,us,us
+1995-12-08T04:12:38.940Z,28.919,34.651,10,4.4,mb,,,,1.3,us,usp00078jy,2014-11-07T00:59:24.047Z,"14 km S of Nuwaybi‘a, Egypt",earthquake,,,,17,reviewed,us,us
+1995-12-06T17:57:54.730Z,28.862,34.679,10,4,mb,,,,1.3,us,usp00078es,2014-11-07T00:59:23.231Z,"20 km S of Nuwaybi‘a, Egypt",earthquake,,,,10,reviewed,us,us
+1995-12-06T09:47:27.740Z,29.114,35.167,10,4.7,md,,,,1.3,us,usp00078dx,2014-11-07T00:59:23.128Z,"37 km SSE of Tala Bay, Jordan",earthquake,,,,,reviewed,us,ryd
+1995-12-06T02:57:24.300Z,29.13,34.752,10,4.3,md,,,,0.7,us,usp00078d2,2014-11-07T00:59:23.057Z,"12 km NE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-12-04T17:56:42.680Z,29.188,34.79,10,4.3,md,,,,0.9,us,usp000788c,2014-11-07T00:59:21.834Z,"19 km NE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-12-04T12:39:50.080Z,28.991,34.831,10,4.1,ml,,,,0.6,us,usp000787t,2014-11-07T00:59:21.779Z,"17 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-12-04T07:34:15.860Z,28.836,34.944,10,4.7,ml,,,,0.9,us,usp000787b,2014-11-07T00:59:21.739Z,"35 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-12-02T07:55:39.550Z,28.801,35.162,10,4.4,mb,,,,0.6,us,usp00077ya,2014-11-07T00:59:18.831Z,"55 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,1,reviewed,us,us
+1995-12-02T06:09:48.710Z,29.204,35.11,10,3.7,md,,,,0.7,us,usp00077y4,2014-11-07T00:59:18.794Z,"25 km SSE of Tala Bay, Jordan",earthquake,,,,,reviewed,us,hlw
+1995-12-02T00:47:22.270Z,29.308,34.657,10,4.4,mb,,,,1.1,us,usp00077xw,2014-11-07T00:59:18.722Z,"28 km N of Nuwaybi‘a, Egypt",earthquake,,,,33,reviewed,us,us
+1995-12-01T21:18:30.920Z,29.125,35.046,10,3.9,mb,,,,0.8,us,usp00077xc,2014-11-07T00:59:18.573Z,"32 km SSE of Tala Bay, Jordan",earthquake,,,,6,reviewed,us,us
+1995-12-01T20:04:59.740Z,29.233,34.694,10,4.4,mb,,,,1,us,usp00077x8,2014-11-07T00:59:18.535Z,"20 km N of Nuwaybi‘a, Egypt",earthquake,,,,25,reviewed,us,us
+1995-12-01T09:17:56.880Z,28.7,34.523,10,4.4,mb,,,,1.2,us,usp00077w0,2014-11-07T00:59:18.101Z,"24 km N of Dahab, Egypt",earthquake,,,,14,reviewed,us,us
+1995-11-29T09:46:24.150Z,29.348,34.83,16.9,4.1,ml,,,,0.7,us,usp00077qv,2014-11-07T00:59:14.573Z,"15 km WSW of Tala Bay, Jordan",earthquake,,7.1,,,reviewed,us,jer
+1995-11-28T21:10:43.670Z,29.178,34.873,10,4.4,ml,,,,0.6,us,usp00077q6,2014-11-07T00:59:14.523Z,"25 km NE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-11-28T12:00:51.550Z,29.146,34.931,10,4.5,ml,,,,0.7,us,usp00077pf,2014-11-07T00:59:14.479Z,"28 km ENE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-11-26T02:17:47.980Z,29.09,35.026,10,3.6,mb,,,,1,us,usp00077hd,2014-11-07T00:59:13.937Z,"35 km S of Tala Bay, Jordan",earthquake,,,,1,reviewed,us,us
+1995-11-25T23:06:20.830Z,29.184,35.01,10,4.2,ml,,,,0.5,us,usp00077h9,2014-11-07T00:59:13.930Z,"25 km S of Tala Bay, Jordan",earthquake,,,,,reviewed,us,jer
+1995-11-25T22:41:30.110Z,29.054,34.774,12.4,4.1,ml,,,,0.7,us,usp00077h7,2014-11-07T00:59:13.926Z,"10 km E of Nuwaybi‘a, Egypt",earthquake,,4.3,,,reviewed,us,jer
+1995-11-25T11:41:35.260Z,29.12,34.836,10,4.8,mb,,,,1.1,us,usp00077g1,2014-11-07T00:59:13.815Z,"18 km ENE of Nuwaybi‘a, Egypt",earthquake,,,,43,reviewed,us,us
+1995-11-24T22:26:35.470Z,29.189,34.877,10,4.2,ml,,,,0.5,us,usp00077em,2014-11-07T00:59:13.590Z,"26 km NE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-11-24T16:43:45.460Z,28.941,34.71,10,4.9,mb,,,,1.3,us,usp00077e3,2014-11-07T00:59:13.443Z,"12 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,61,reviewed,us,us
+1995-11-24T04:09:51.590Z,29.313,35.075,10,4.5,ml,,,,0.6,us,usp00077cs,2014-11-07T00:59:13.297Z,"14 km SE of Tala Bay, Jordan",earthquake,,,,,reviewed,us,jer
+1995-11-24T03:35:45.120Z,29.202,35.115,10,4.4,ml,,,,0.5,us,usp00077cr,2014-11-07T00:59:13.295Z,"26 km SSE of Tala Bay, Jordan",earthquake,,,,,reviewed,us,jer
+1995-11-23T22:28:19.860Z,28.663,34.915,10,3.9,mb,,,,0.8,us,usp00077c5,2014-11-07T00:59:13.245Z,"45 km ENE of Dahab, Egypt",earthquake,,,,1,reviewed,us,us
+1995-11-23T18:07:17.290Z,29.333,34.749,10,5.7,mw,,,,1.1,us,usp00077bq,2022-04-29T19:53:59.663Z,"23 km WSW of Tala Bay, Jordan",earthquake,,,,,reviewed,us,hrv
+1995-11-23T03:05:07.600Z,28.726,34.768,10,4.6,mb,,,,1.2,us,usp00077ah,2014-11-07T00:59:13.010Z,"36 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,21,reviewed,us,us
+1995-11-22T22:16:53.930Z,28.52,34.701,10,5.4,mw,,,,1.3,us,usp00077a3,2022-04-29T19:53:57.249Z,"20 km ENE of Dahab, Egypt",earthquake,,,,,reviewed,us,hrv
+1995-11-22T20:02:31.410Z,29.056,34.795,10,4.4,mb,,,,0.8,us,usp00077a0,2014-11-07T00:59:12.907Z,"12 km E of Nuwaybi‘a, Egypt",earthquake,,,,13,reviewed,us,us
+1995-11-22T12:47:05.180Z,28.536,35.005,10,5.1,mb,,,,1.3,us,usp000779c,2022-04-29T19:53:54.837Z,"50 km E of Dahab, Egypt",earthquake,,,,66,reviewed,us,us
+1995-11-22T11:37:14.620Z,28.768,34.841,10,4.9,ml,,,,1.4,us,usp0007798,2014-11-07T00:59:12.487Z,"35 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-11-22T08:58:43.220Z,29.024,34.738,10,4.4,ml,,,,0.6,us,usp000778u,2014-11-07T00:59:12.459Z,"7 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-11-22T07:55:30.480Z,29.049,34.713,10,4.8,mb,,,,1.1,us,usp000778r,2014-11-07T00:59:12.447Z,"4 km E of Nuwaybi‘a, Egypt",earthquake,,,,41,reviewed,us,us
+1995-11-22T04:15:11.940Z,28.826,34.799,10,7.2,mw,,,,1.3,us,usp0007788,2022-04-29T19:53:53.438Z,"27 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,hrv
+1995-10-03T19:33:22.300Z,27.585,34.387,10,3.4,md,,,,0.4,us,usp00074eb,2014-11-07T00:58:53.383Z,"37 km S of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-09-08T12:13:22.160Z,29.489,32.256,10,3.9,mb,,,,0.5,us,usp000733b,2014-11-07T00:58:42.200Z,"13 km SSW of Ain Sukhna, Egypt",earthquake,,,,2,reviewed,us,us
+1995-08-31T23:05:19.510Z,29.194,34.819,10,3.7,ml,,,,0.4,us,usp00072r6,2014-11-07T00:58:37.159Z,"22 km NE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-07-11T17:12:56.160Z,28.549,34.786,10,3,md,,,,0.5,us,usp00070fw,2014-11-07T00:58:20.169Z,"29 km ENE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-07-10T17:12:56.160Z,28.549,34.786,10,3,md,,,,0.5,us,usp00070ek,2014-11-07T00:58:20.024Z,"29 km ENE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-07-08T03:17:36.940Z,29.642,31.835,10,3.2,md,,,,0.8,us,usp00070ag,2014-11-07T00:58:19.111Z,"46 km W of Ain Sukhna, Egypt",earthquake,,,,,reviewed,us,hlw
+1995-07-06T19:15:39.780Z,28.51,34.742,10,2.7,md,,,,0.4,us,usp000708c,2014-11-07T00:58:18.737Z,"24 km E of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-07-06T17:07:39.990Z,28.695,34.525,10,3.1,md,,,,0.5,us,usp0007086,2014-11-07T00:58:18.724Z,"23 km N of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-07-06T15:00:51.560Z,28.763,34.582,10,2.7,md,,,,0.6,us,usp0007080,2014-11-07T00:58:18.673Z,"32 km NNE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-07-06T05:50:22.800Z,28.71,34.688,10,2.6,md,,,,0.5,us,usp000707d,2014-11-07T00:58:18.381Z,"31 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-06-27T03:32:17.430Z,28.017,34.418,10,3.2,md,,,,0.3,us,usp0006zry,2014-11-07T00:58:12.013Z,"14 km NE of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-06-09T23:30:36.850Z,28.557,34.598,10,4.2,ml,,,,0.3,us,usp0006yve,2014-11-07T00:58:07.740Z,"13 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,jer
+1995-05-14T04:00:17.400Z,28.374,34.585,10,4.3,mb,,,,0.7,us,usp0006xb3,2014-11-07T00:57:55.209Z,"14 km SE of Dahab, Egypt",earthquake,,,,3,reviewed,us,us
+1995-04-06T05:24:57.180Z,27.309,33.397,30,4.3,md,,,,1.5,us,usp0006v8j,2014-11-07T00:57:39.956Z,"29 km WSW of El Gouna, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-03-30T08:52:34.330Z,27.906,34.795,10,2.8,md,,,,0.7,us,usp0006uxk,2014-11-07T00:57:34.375Z,"45 km E of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-03-15T09:20:31.120Z,27.617,33.933,10,3.8,mb,,,,0.8,us,usp0006u7d,2014-11-07T00:57:31.068Z,"35 km NE of El Gouna, Egypt",earthquake,,,,1,reviewed,us,us
+1995-02-27T17:06:57.910Z,28.838,34.872,10,3.2,md,,,,0.5,us,usp0006tm9,2014-11-07T00:57:23.268Z,"30 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-27T09:22:28.130Z,28.762,34.904,10,3.5,md,,,,0.7,us,usp0006tky,2014-11-07T00:57:23.211Z,"39 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-26T08:36:28.120Z,27.943,34.643,10,4.6,ml,,,,0.6,us,usp0006tjj,2014-11-07T00:57:23.061Z,"30 km E of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,jer
+1995-02-25T10:35:22.710Z,26.725,35.201,10,2.9,md,,,,1.4,us,usp0006tgy,2014-11-07T00:57:22.757Z,"84 km SW of Duba, Saudi Arabia",earthquake,,,,,reviewed,us,ryd
+1995-02-23T12:42:00.260Z,28.915,34.612,10,2.9,md,,,,0.4,us,usp0006tde,2014-11-07T00:57:22.012Z,"15 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-23T02:14:10.790Z,28.865,34.884,10,2.8,md,,,,0.4,us,usp0006tcq,2014-11-07T00:57:21.715Z,"29 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-18T13:21:39.710Z,28.959,34.567,20,3.7,md,,,,0.6,us,usp0006t58,2014-11-07T00:57:20.769Z,"13 km SW of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-17T04:33:29.540Z,29.749,35.003,10.2,3.5,md,,,,1,us,usp0006t3b,2014-11-07T00:57:20.596Z,"21 km NNE of Eilat, Israel",earthquake,,3.8,,,reviewed,us,ryd
+1995-02-15T04:39:28.280Z,28.657,34.128,20,2.8,md,,,,0.5,us,usp0006sz9,2014-11-07T00:57:20.178Z,"20 km ENE of Saint Catherine, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-13T14:28:59.510Z,28.225,34.625,10,3.2,md,,,,0.3,us,usp0006svr,2014-11-07T00:57:19.680Z,"31 km SSE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-10T15:12:12.150Z,28.97,34.871,10,3.6,md,,,,0.5,us,usp0006sq6,2014-11-07T00:57:18.676Z,"21 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-08T11:52:12.100Z,28.772,34.619,10,2.7,md,,,,0.3,us,usp0006sjz,2014-11-07T00:57:18.111Z,"30 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-02-06T21:15:48.850Z,28.969,34.964,5,3.6,ml,,,,1.1,us,usp0006sgm,2014-11-07T00:57:17.831Z,"30 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,jer
+1995-02-05T05:22:32.320Z,27.122,34.577,10,3.2,md,,,,0.2,us,usp0006sde,2014-11-07T00:57:17.188Z,"68 km ENE of Makadi Bay, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-15T09:54:20.160Z,27.807,34.628,10,3.5,md,,,,1,us,usp0006rc8,2014-11-07T00:57:08.248Z,"31 km ESE of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-13T21:20:37.420Z,28.904,35.061,10,2.7,md,,,,0.7,us,usp0006r9w,2014-11-07T00:57:07.956Z,"41 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-09T03:32:47.060Z,28.965,34.872,10,3.3,md,,,,0.4,us,usp0006r2d,2014-11-07T00:57:06.941Z,"22 km ESE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-06T09:17:43.030Z,26.84,34.783,10,2.7,md,,,,1,us,usp0006qxj,2014-11-07T00:57:06.071Z,"84 km E of Safaga, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-06T07:24:06.370Z,29,34.876,10,2.5,md,,,,0.3,us,usp0006qxa,2014-11-07T00:57:06.052Z,"Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-05T01:52:51.950Z,27.847,33.068,10,3.6,md,,,,0.4,us,usp0006qvt,2014-11-07T00:57:05.743Z,"56 km S of Ras Gharib, Egypt",earthquake,,,,,reviewed,us,hlw
+1995-01-03T11:27:57.850Z,28.828,34.887,10,2.7,md,,,,0.6,us,usp0006qth,2014-11-07T00:57:04.980Z,"32 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-03T09:14:35.240Z,28.824,34.667,10,3.2,md,,,,0.5,us,usp0006qt7,2014-11-07T00:57:04.935Z,"24 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1995-01-01T00:46:29.730Z,26.733,34.707,10,3.5,md,,,,0.4,us,usp0006qph,2014-11-07T00:57:02.492Z,"76 km E of Safaga, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-25T16:42:15.580Z,28.797,34.825,10,2.5,md,,,,0.7,us,usp0006qee,2014-11-07T00:56:59.778Z,"31 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-24T14:24:39.310Z,28.838,34.848,10,2.5,md,,,,0.5,us,usp0006qd2,2014-11-07T00:56:59.559Z,"29 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-22T07:03:10.110Z,26.694,34.656,10,3.5,md,,,,0.2,us,usp0006qan,2014-11-07T00:56:59.124Z,"71 km E of Safaga, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-19T10:09:57.620Z,28.722,34.837,10,3.1,md,,,,0.6,us,usp0006q7c,2014-11-07T00:56:58.753Z,"39 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-16T00:44:33.530Z,28.681,34.8,10,3.2,md,,,,0.7,us,usp0006q39,2014-11-07T00:56:58.202Z,"37 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-15T09:10:20.460Z,28.72,34.702,10,3,md,,,,0.7,us,usp0006q2u,2014-11-07T00:56:58.100Z,"33 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-11T04:28:34.720Z,27.319,34.646,10,2.9,md,,,,0.3,us,usp0006px6,2014-11-07T00:56:57.188Z,"73 km SSE of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-12-03T08:49:50.520Z,28.677,34.732,10,2.6,md,,,,0.6,us,usp0006pks,2014-11-07T00:56:54.367Z,"31 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-11-26T14:50:50.980Z,28.536,34.898,10,2.7,md,,,,0.5,us,usp0006p9d,2014-11-07T00:56:50.816Z,"39 km E of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-11-14T18:23:24.370Z,28.714,34.739,10,3.8,md,,,,1.3,us,usp0006nn0,2014-11-07T00:56:47.316Z,"35 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-11-10T09:54:28.890Z,28.391,34.466,10,3.1,md,,,,1.4,us,usp0006nc9,2014-11-07T00:56:46.465Z,"10 km SSW of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-11-06T01:46:09.990Z,27.983,34.238,10,3.5,md,,,,0.6,us,usp0006n69,2014-11-07T00:56:43.438Z,"11 km NW of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-11-04T06:00:48.500Z,27.388,34.442,10,3.2,md,,,,0.5,us,usp0006n3q,2014-11-07T00:56:39.197Z,"59 km S of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-10-19T14:36:08.450Z,28.6,34.631,10,3,md,,,,0.1,us,usp0006mcd,2014-11-07T00:56:32.118Z,"18 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-10-19T14:25:51.820Z,28.614,34.655,10,3.1,md,,,,0.1,us,usp0006mcc,2014-11-07T00:56:32.117Z,"21 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-09-28T09:38:37.440Z,30.566,32.806,10,3.8,md,,,,0.3,us,usp0006k4t,2014-11-07T00:56:20.787Z,"51 km E of Ismailia, Egypt",earthquake,,,,,reviewed,us,hlw
+1994-09-28T04:38:57.330Z,28.591,34.889,10,3,md,,,,0.4,us,usp0006k4d,2014-11-07T00:56:20.750Z,"40 km ENE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-09-27T12:00:33.020Z,28.778,34.706,10,3.4,md,,,,0.8,us,usp0006k2z,2014-11-07T00:56:20.568Z,"30 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-09-26T17:27:18.580Z,28.522,34.596,10,4.4,md,,,,0.2,us,usp0006k1n,2014-11-07T00:56:20.439Z,"10 km ENE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-09-26T13:54:07.420Z,28.783,34.716,10,3.4,md,,,,0.8,us,usp0006k1c,2014-11-07T00:56:20.422Z,"29 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-09-22T12:39:13.080Z,28.691,34.665,10,3.2,md,,,,0.9,us,usp0006jv4,2014-11-07T00:56:19.333Z,"28 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-09-11T14:20:18.680Z,28.743,34.717,10,3.3,md,,,,1,us,usp0006j89,2014-11-07T00:56:15.234Z,"34 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-09-01T04:07:32.520Z,29.317,34.864,10,3.2,ml,,,,0.8,us,usp0006hs5,2014-11-07T00:56:10.999Z,"15 km SW of Tala Bay, Jordan",earthquake,,,,,reviewed,us,jer
+1994-08-19T01:36:04.120Z,28.637,34.828,5,4.1,ml,,,,1.7,us,usp0006h4y,2014-11-07T00:56:05.941Z,"36 km ENE of Dahab, Egypt",earthquake,,,,,reviewed,us,jer
+1994-08-19T01:30:27.770Z,28.443,34.621,5,4.3,ml,,,,1,us,usp0006h4x,2014-11-07T00:56:05.938Z,"13 km ESE of Dahab, Egypt",earthquake,,,,,reviewed,us,jer
+1994-07-05T10:01:00.120Z,28.693,34.607,10,4,mb,,,,1,us,usp0006f6z,2014-11-07T00:55:49.893Z,"25 km NNE of Dahab, Egypt",earthquake,,,,3,reviewed,us,us
+1994-07-04T01:06:09.020Z,28.652,34.98,10,3.6,mb,,,,1.3,us,usp0006f53,2014-11-07T00:55:49.324Z,"51 km ENE of Dahab, Egypt",earthquake,,,,2,reviewed,us,us
+1994-07-03T14:26:41.310Z,28.742,34.573,15.4,4.3,mb,,,,1.2,us,usp0006f4c,2014-11-07T00:55:49.120Z,"29 km NNE of Dahab, Egypt",earthquake,,5.2,,4,reviewed,us,us
+1994-06-24T20:43:59.680Z,30.144,34.05,10,3.7,ml,,,,1.1,us,usp0006es9,2014-11-07T00:55:44.427Z,"88 km SW of Mitzpe Ramon, Israel",earthquake,,,,,reviewed,us,bhl
+1994-05-02T18:15:40.790Z,27.813,33.771,10,3.8,md,,,,0.9,us,usp0006bxj,2014-11-07T00:55:25.226Z,"47 km N of El Gouna, Egypt",earthquake,,,,,reviewed,us,hlw
+1994-04-28T08:06:53.970Z,28.68,35.159,10,3.9,md,,,,1.2,us,usp0006brv,2014-11-07T00:55:21.606Z,"63 km SE of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,hlw
+1994-04-06T21:18:32.830Z,28.74,34.645,9.6,4.6,mb,,,,1,us,usp0006ard,2014-11-07T00:55:16.714Z,"32 km NNE of Dahab, Egypt",earthquake,,4.5,,19,reviewed,us,us
+1994-02-17T23:13:33.660Z,28.875,34.61,10,4.1,mb,,,,0.7,us,usp00068nw,2014-11-07T00:54:59.941Z,"19 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,1,reviewed,us,us
+1994-01-31T22:57:18.710Z,28.423,34.535,10,4,md,,,,0.3,us,usp00067tr,2014-11-07T00:54:51.856Z,"7 km SSE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1994-01-31T21:28:06.480Z,28.372,34.884,10,4,md,,,,1.5,us,usp00067tp,2014-11-07T00:54:51.852Z,"40 km ESE of Dahab, Egypt",earthquake,,,,,reviewed,us,hlw
+1994-01-13T15:29:57.280Z,30.162,31.446,10,3.5,mb,,,,1.2,us,usp00066ds,2014-11-07T00:54:46.699Z,"9 km SE of Al Kh?nkah, Egypt",earthquake,,,,1,reviewed,us,us
+1994-01-03T08:21:01.650Z,29.991,34.054,10,3.7,mb,,,,0.9,us,usp00065yt,2014-11-07T00:54:42.799Z,"98 km WNW of Eilat, Israel",earthquake,,,,2,reviewed,us,us
+1994-01-02T07:49:23.690Z,28.745,33.305,31.1,3.5,mb,,,,1.4,us,usp00065xx,2014-11-07T00:54:42.335Z,"48 km NNE of Ras Gharib, Egypt",earthquake,,10.2,,1,reviewed,us,us
+1994-01-01T03:10:30.280Z,28.647,34.609,10,3.9,mb,,,,1.3,us,usp00065wg,2014-11-07T00:54:41.376Z,"Egypt",earthquake,,,,3,reviewed,us,us
+1993-12-31T10:26:17.300Z,29.145,34.751,10,4.1,mb,,,,1.4,us,usp00065ve,2014-11-07T00:54:39.364Z,"13 km NE of Nuwaybi‘a, Egypt",earthquake,,,,1,reviewed,us,us
+1993-12-04T23:34:11.160Z,28.886,34.903,10,4.5,ms,,,,1.3,us,usp00064ny,2014-11-07T00:54:33.347Z,"29 km SE of Nuwaybi‘a, Egypt",earthquake,,,,3,reviewed,us,us
+1993-11-25T02:54:13.910Z,28.712,34.676,10,3.1,md,,,,0.7,us,usp000646c,2014-11-07T00:54:27.115Z,"31 km NE of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1993-11-24T19:31:46.240Z,28.776,34.703,10,3.8,md,,,,0.9,us,usp000645q,2014-11-07T00:54:27.062Z,"30 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,ryd
+1993-11-08T01:06:02.990Z,28.698,34.673,13.8,4.9,mb,,,,1,us,usp00063be,2014-11-07T00:54:22.724Z,"29 km NE of Dahab, Egypt",earthquake,,,,50,reviewed,us,us
+1993-11-03T18:39:33.000Z,28.654,34.65,13,4.9,mb,,,,1,us,usp000634q,2014-11-07T00:54:20.956Z,"24 km NE of Dahab, Egypt",earthquake,,4.3,,49,reviewed,us,us
+1993-10-21T00:35:04.330Z,28.898,34.698,10,4.4,mb,,,,0.9,us,usp00062bt,2014-11-07T00:54:13.984Z,"16 km SSE of Nuwaybi‘a, Egypt",earthquake,,,,9,reviewed,us,us
+1993-10-18T20:51:15.570Z,28.896,34.57,9.3,4.8,mb,,,,1.2,us,usp000627u,2014-11-07T00:54:13.581Z,"19 km SSW of Nuwaybi‘a, Egypt",earthquake,,,,15,reviewed,us,us
+1993-10-10T11:17:04.390Z,28.756,34.62,10,3.7,mb,,,,1.1,us,usp00061rm,2014-11-07T00:54:11.449Z,"32 km S of Nuwaybi‘a, Egypt",earthquake,,,,2,reviewed,us,us
+1993-10-03T17:49:04.030Z,28.803,34.656,10,3.7,mb,,,,1.1,us,usp00061e8,2014-11-07T00:54:09.678Z,"27 km S of Nuwaybi‘a, Egypt",earthquake,,,,2,reviewed,us,us
+1993-09-20T20:18:04.660Z,28.918,34.485,10,3.9,mb,,,,1.4,us,usp00060q0,2014-11-07T00:54:00.184Z,"22 km SW of Nuwaybi‘a, Egypt",earthquake,,,,2,reviewed,us,us
+1993-09-12T23:15:54.540Z,28.594,34.578,23.2,3.4,mb,,,,1.4,us,usp000607x,2014-11-07T00:53:57.411Z,"14 km NNE of Dahab, Egypt",earthquake,,8.8,,1,reviewed,us,us
+1993-09-10T19:48:55.530Z,29.936,34.15,10,3.6,mb,,,,0.7,us,usp0006034,2014-11-07T00:53:56.753Z,"87 km WNW of Eilat, Israel",earthquake,,,,1,reviewed,us,us
+1993-08-20T23:10:00.480Z,28.764,34.687,10,4.5,mb,,,,1.4,us,usp0005yxj,2014-11-07T00:53:47.215Z,"31 km S of Nuwaybi‘a, Egypt",earthquake,,,,8,reviewed,us,us
+1993-08-16T02:12:33.670Z,28.663,34.627,10,3.9,mb,,,,1.1,us,usp0005yms,2014-11-07T00:53:44.598Z,"23 km NNE of Dahab, Egypt",earthquake,,,,1,reviewed,us,us
+1993-08-15T05:11:27.560Z,28.743,34.676,10.2,4.2,mb,,,,1.4,us,usp0005yjs,2014-11-07T00:53:44.304Z,"33 km S of Nuwaybi‘a, Egypt",earthquake,,6.5,,8,reviewed,us,us
+1993-08-13T01:11:08.490Z,29.167,34.669,10,4.3,mb,,,,1.3,us,usp0005yf1,2014-11-07T00:53:42.895Z,"13 km N of Nuwaybi‘a, Egypt",earthquake,,,,12,reviewed,us,us
+1993-08-13T00:31:43.120Z,28.561,34.716,9,4.7,mb,,,,1.6,us,usp0005yey,2014-11-07T00:53:42.879Z,"23 km ENE of Dahab, Egypt",earthquake,,,,33,reviewed,us,us
+1993-08-09T06:05:03.240Z,28.737,34.704,10,4.6,mb,,,,1.2,us,usp0005y5n,2014-11-07T00:53:41.279Z,"34 km S of Nuwaybi‘a, Egypt",earthquake,,,,18,reviewed,us,us
+1993-08-07T04:55:39.980Z,28.807,34.717,10,4.4,mb,,,,1,us,usp0005y1u,2014-11-07T00:53:40.255Z,"27 km S of Nuwaybi‘a, Egypt",earthquake,,,,19,reviewed,us,us
+1993-08-03T20:53:51.900Z,28.672,34.567,10,4.7,mb,,,,1.3,us,usp0005xx3,2014-11-07T00:53:39.251Z,"22 km NNE of Dahab, Egypt",earthquake,,,,35,reviewed,us,us
+1993-08-03T18:02:05.460Z,28.948,34.663,10,4.6,mb,,,,1.1,us,usp0005xwz,2014-11-07T00:53:39.223Z,"10 km S of Nuwaybi‘a, Egypt",earthquake,,,,15,reviewed,us,us
+1993-08-03T17:50:20.630Z,28.668,34.786,10,4.6,mb,,,,1.3,us,usp0005xwy,2014-11-07T00:53:39.212Z,"35 km NE of Dahab, Egypt",earthquake,,,,18,reviewed,us,us
+1993-08-03T16:33:20.780Z,28.777,34.668,10,5.7,mw,,,,1.1,us,usp0005xws,2022-04-28T18:02:12.027Z,"29 km S of Nuwaybi‘a, Egypt",earthquake,,,,,reviewed,us,hrv
+1993-08-03T15:42:54.660Z,28.886,33.706,10,3.8,mb,,,,1.5,us,usp0005xwp,2014-11-07T00:53:39.075Z,"43 km NNW of Saint Catherine, Egypt",earthquake,,,,1,reviewed,us,us
+1993-08-03T13:44:59.900Z,28.607,34.638,10,5.1,ms,,,,1.1,us,usp0005xwj,2014-11-07T00:53:39.028Z,"19 km NE of Dahab, Egypt",earthquake,,,,1,reviewed,us,us
+1993-08-03T13:33:43.950Z,28.405,34.78,10,5,mb,,,,1.3,us,usp0005xwh,2014-11-07T00:53:39.007Z,"29 km ESE of Dahab, Egypt",earthquake,,,,31,reviewed,us,us
+1993-08-03T13:29:42.460Z,29.679,34.141,10,4.6,mb,,,,1.3,us,usp0005xwf,2014-11-07T00:53:38.997Z,"79 km W of Eilat, Israel",earthquake,,,,12,reviewed,us,us
+1993-08-03T13:12:18.300Z,28.504,34.676,10,5.3,ms,,,,1.1,us,usp0005xwe,2014-11-07T00:53:38.971Z,"17 km E of Dahab, Egypt",earthquake,,,,3,reviewed,us,us
+1993-08-03T12:54:06.360Z,28.6,34.777,10,5.1,mb,,,,1.3,us,usp0005xwb,2014-11-07T00:53:38.903Z,"30 km ENE of Dahab, Egypt",earthquake,,,,46,reviewed,us,us
+1993-08-03T12:43:05.360Z,28.729,34.553,10,6.1,mw,,,,1.3,us,usp0005xw9,2022-04-28T18:02:10.369Z,"27 km NNE of Dahab, Egypt",earthquake,,,,,reviewed,us,hrv
+1993-08-03T12:31:20.190Z,28.549,34.608,10,4.5,mb,,,,1.4,us,usp0005xw8,2014-11-07T00:53:38.735Z,"13 km NE of Dahab, Egypt",earthquake,,,,5,reviewed,us,us
+1993-07-31T17:53:01.430Z,29.394,34.475,10,4.4,mb,,,,1.3,us,usp0005xr9,2014-11-07T00:53:34.927Z,"42 km NNW of Nuwaybi‘a, Egypt",earthquake,,,,8,reviewed,us,us
+1993-07-30T23:34:10.810Z,28.864,34.821,18,4.7,mb,,,,1.2,us,usp0005xq4,2014-11-07T00:53:34.796Z,"25 km SE of Nuwaybi‘a, Egypt",earthquake,,,,31,reviewed,us,us
+1993-07-26T00:07:49.770Z,28.274,34.485,10,3.7,md,,,,0.6,us,usp0005xd5,2014-11-07T00:53:33.926Z,"23 km S of Dahab, Egypt",earthquake,,,,,reviewed,us,ryd
+1993-07-19T08:53:46.930Z,27.24,35.029,10,4,md,,,,0.4,us,usp0005wyb,2014-11-07T00:53:31.858Z,"66 km W of Duba, Saudi Arabia",earthquake,,,,,reviewed,us,ryd
+1993-06-13T06:16:05.410Z,29.572,30.772,10,4.3,mb,,,,1.4,us,usp0005ug8,2014-11-07T00:53:14.788Z,"21 km WNW of ??miyah, Egypt",earthquake,,,,3,reviewed,us,us
+1993-05-24T21:47:21.740Z,29.128,32.436,10,3.4,md,,,,0.5,us,usp0005te2,2014-11-07T00:53:03.891Z,"53 km SSE of Ain Sukhna, Egypt",earthquake,,,,,reviewed,us,hlw
+1993-05-04T20:56:38.870Z,29.148,30.576,10,3.7,md,,,,0.9,us,usp0005s7a,2014-11-07T00:52:57.515Z,"23 km WSW of I?s?, Egypt",earthquake,,,,,reviewed,us,hlw
+1993-04-02T22:03:42.400Z,27.83,33.738,10,4.1,md,,,,0.4,us,usp0005qjk,2014-11-07T00:52:44.808Z,"47 km SSE of El-Tor, Egypt",earthquake,,,,,reviewed,us,hlw
+1993-04-01T09:41:14.670Z,27.813,30.886,10,3.7,md,,,,0.8,us,usp0005qg3,2014-11-07T00:52:43.003Z,"9 km NNE of Mallaw?, Egypt",earthquake,,,,,reviewed,us,hlw
+1993-03-29T03:37:58.070Z,28.384,33.307,10.8,3.8,mb,,,,1.3,us,usp0005qaj,2014-11-07T00:52:40.038Z,"22 km E of Ras Gharib, Egypt",earthquake,,9.3,,1,reviewed,us,us
+1993-03-10T19:26:56.290Z,30.079,31.654,10,4.5,mb,,,,1.2,us,usp0005p9p,2014-11-07T00:52:34.364Z,"Egypt",earthquake,,,,1,reviewed,us,us
+1992-12-09T20:26:11.670Z,28.392,32.9,10,3.5,md,,,,1.5,us,usp0005j1g,2014-11-07T00:52:01.600Z,"17 km WNW of Ras Gharib, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-12-04T15:02:53.020Z,29.518,31.33,10,3.6,md,,,,1.2,us,usp0005hts,2014-11-07T00:51:59.832Z,"7 km SE of A? ?aff, Egypt",earthquake,,,,,reviewed,us,ryd
+1992-11-12T04:12:50.090Z,29.491,34.858,10,4,md,,,,0.9,us,usp0005gre,2014-11-07T00:51:51.467Z,"11 km SW of Eilat, Israel",earthquake,,,,,reviewed,us,ryd
+1992-11-10T11:17:17.850Z,29.685,31.06,30,4.4,mb,,,,0.7,us,usp0005gmz,2014-11-07T00:51:50.980Z,"14 km S of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,4,,3,reviewed,us,us
+1992-11-07T01:35:03.670Z,29.732,31.261,33,3.5,mb,,,,0.7,us,usp0005gex,2014-11-07T00:51:49.742Z,"12 km N of Al ‘Ayy??, Egypt",earthquake,,,,1,reviewed,us,us
+1992-11-06T02:42:01.000Z,29.572,31.152,31.5,3.1,mb,,,,0.5,us,usp0005gcn,2014-11-07T00:51:49.393Z,"11 km WSW of Al ‘Ayy??, Egypt",earthquake,,5.4,,1,reviewed,us,us
+1992-11-05T19:16:46.370Z,29.757,31.078,25.4,4.1,md,,,,0.9,us,usp0005gbv,2014-11-07T00:51:49.157Z,"7 km SSE of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,6.7,,,reviewed,us,hlw
+1992-11-05T18:41:49.770Z,29.711,31.006,26.3,4.5,mb,,,,1.3,us,usp0005gbu,2014-11-07T00:51:49.127Z,"12 km SSW of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,46,reviewed,us,us
+1992-11-04T16:29:39.930Z,29.713,31.541,10,3.8,ml,,,,1.2,us,usp0005g9s,2014-11-07T00:51:48.440Z,"27 km ESE of ?alw?n, Egypt",earthquake,,,,,reviewed,us,css
+1992-10-27T11:02:48.230Z,28.835,33.166,22.9,4,mb,,,,0.6,us,usp0005fyc,2014-11-07T00:51:43.440Z,"53 km N of Ras Gharib, Egypt",earthquake,,4.2,,1,reviewed,us,us
+1992-10-27T09:44:48.120Z,28.82,33.136,29.4,3.5,mb,,,,0.8,us,usp0005fya,2014-11-07T00:51:43.436Z,"51 km N of Ras Gharib, Egypt",earthquake,,5.7,,1,reviewed,us,us
+1992-10-22T17:39:00.600Z,29.755,31.535,10,4.5,mb,,,,0.8,us,usp0005fqx,2020-08-29T01:53:44.642Z,"24 km ESE of ?alw?n, Egypt",earthquake,,,,4,reviewed,us,us
+1992-10-20T05:25:15.490Z,28.552,32.863,10,3.8,md,,,,1.3,us,usp0005fmj,2014-11-07T00:51:41.855Z,"30 km NW of Ras Gharib, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-10-20T01:57:58.420Z,28.443,33.158,10,3.9,mb,,,,1.1,us,usp0005fm8,2014-11-07T00:51:41.781Z,"12 km NE of Ras Gharib, Egypt",earthquake,,,,2,reviewed,us,us
+1992-10-14T09:40:24.990Z,29.728,31.184,10,3.7,mb,,,,1.1,us,usp0005faw,2014-11-07T00:51:39.875Z,"13 km NNW of Al ‘Ayy??, Egypt",earthquake,,,,1,reviewed,us,us
+1992-10-14T03:50:15.610Z,30.088,31.277,10,4.1,ml,,,,1.7,us,usp0005faj,2014-11-07T00:51:39.815Z,"3 km NE of Cairo, Egypt",earthquake,,,,,reviewed,us,css
+1992-10-13T18:09:03.050Z,29.687,31.042,10,3.7,md,,,,1.7,us,usp0005f9x,2014-11-07T00:51:39.761Z,"14 km S of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-10-12T21:31:37.020Z,29.618,31.377,10,3.4,mb,,,,1.5,us,usp0005f8q,2014-11-07T00:51:39.649Z,"11 km ENE of A? ?aff, Egypt",earthquake,,,,1,reviewed,us,us
+1992-10-12T15:25:20.970Z,29.72,31.096,10,4.1,mb,,,,1,us,usp0005f8c,2014-11-07T00:51:39.600Z,"11 km SSE of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,1,reviewed,us,us
+1992-10-12T13:09:55.510Z,29.778,31.144,21.5,5.8,mw,,,,1.2,us,usp0005f89,2022-04-28T18:32:39.037Z,"10 km ESE of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,,reviewed,us,hrv
+1992-10-07T21:41:14.280Z,30.55,35.209,10,4,md,,,,0.7,us,usp0005f2g,2014-11-07T00:51:38.525Z,"34 km W of Ash Shawbak, Jordan",earthquake,,,,,reviewed,us,ryd
+1992-09-26T01:42:25.450Z,27.734,34.032,10,3.9,md,,,,0.8,us,usp0005eh6,2014-11-07T00:51:30.806Z,"35 km SW of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-09-26T01:09:57.230Z,28.286,33.8,10,3.6,mb,,,,0.5,us,usp0005eh4,2014-11-07T00:51:30.802Z,"18 km ENE of El-Tor, Egypt",earthquake,,,,1,reviewed,us,us
+1992-09-25T23:06:12.940Z,27.165,33.858,10,3.8,md,,,,0.9,us,usp0005egz,2014-11-07T00:51:30.794Z,"11 km SSE of Hurghada, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-09-25T22:20:17.020Z,27.423,33.97,10,3.9,mb,,,,0.9,us,usp0005egw,2014-11-07T00:51:30.787Z,"24 km NE of Hurghada, Egypt",earthquake,,,,4,reviewed,us,us
+1992-09-25T22:02:54.620Z,27.388,34.081,10,4,mb,,,,1,us,usp0005egv,2014-11-07T00:51:30.785Z,"30 km ENE of Hurghada, Egypt",earthquake,,,,2,reviewed,us,us
+1992-09-25T21:35:39.670Z,27.92,33.979,10,4.2,md,,,,1.5,us,usp0005egu,2014-11-07T00:51:30.783Z,"34 km W of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-09-25T21:33:20.260Z,27.974,34.393,10,4,md,,,,0.5,us,usp0005egt,2014-11-07T00:51:30.782Z,"8 km NE of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-09-15T07:24:14.040Z,27.617,34.293,10,3.8,md,,,,0.5,us,usp0005e0m,2014-11-07T00:51:28.833Z,"33 km S of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,hlw
+1992-09-03T17:09:20.400Z,27.347,34.584,10,3.9,mb,,,,1.2,us,usp0005dhu,2014-11-07T00:51:24.590Z,"67 km SSE of Sharm el-Sheikh, Egypt",earthquake,,,,2,reviewed,us,us
+1992-05-22T23:10:43.790Z,30.165,32.036,10,4.5,mb,,,,1.2,us,usp00057xr,2014-11-07T00:50:40.745Z,"48 km SSE of At Tall al Kab?r, Egypt",earthquake,,,,22,reviewed,us,us
+1991-12-05T00:52:41.790Z,28.498,32.888,13,3.4,mb,,,,0.7,us,usp000501v,2014-11-07T00:49:41.986Z,"24 km NW of Ras Gharib, Egypt",earthquake,,4.4,,1,reviewed,us,us
+1991-11-26T10:41:46.400Z,28.885,33.247,10,4,md,,,,0.2,us,usp0004zp8,2014-11-07T00:49:37.177Z,"60 km NNE of Ras Gharib, Egypt",earthquake,,,,,reviewed,us,hlw
+1991-10-05T18:48:25.990Z,29.536,32.591,31.3,4.2,md,,,,0.8,us,usp0004xem,2014-11-07T00:49:22.035Z,"27 km ESE of Ain Sukhna, Egypt",earthquake,,7,,,reviewed,us,hlw
+1991-03-27T00:18:25.300Z,27.621,33.724,10,4,md,,,,0.4,us,usp0004pkp,2014-11-07T00:48:14.347Z,"25 km N of El Gouna, Egypt",earthquake,,,,,reviewed,us,hlw
+1990-09-13T22:10:07.150Z,27.161,35.125,10,4.6,mb,,,,1.2,us,usp0004eph,2014-11-07T00:47:06.852Z,"59 km WSW of Duba, Saudi Arabia",earthquake,,,,25,reviewed,us,us
+1990-08-11T21:04:37.780Z,29.324,32.566,10,3.8,md,,,,0.2,us,usp0004d8z,2014-11-07T00:46:55.915Z,"39 km SE of Ain Sukhna, Egypt",earthquake,,,,,reviewed,us,hlw
+1990-07-07T01:38:19.570Z,29.05,31.84,10,3.8,md,,,,1.1,us,usp0004bfy,2014-11-07T00:46:39.109Z,"69 km ESE of Al W?si?ah, Egypt",earthquake,,,,,reviewed,us,hlw
+1990-03-25T12:02:17.730Z,28.846,33.16,10,3.8,md,,,,0.6,us,usp000471w,2014-11-07T00:45:58.690Z,"54 km N of Ras Gharib, Egypt",earthquake,,,,,reviewed,us,hlw
+1990-03-15T11:24:30.100Z,28.005,34.575,5,4,md,,,,0.5,us,usp00046mt,2014-11-07T00:45:56.980Z,"26 km ENE of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,hlw
+1990-02-23T04:58:14.720Z,27.036,32.729,10,4,md,,,,0.8,us,usp00045tf,2014-11-07T00:45:47.541Z,"96 km N of Qin?, Egypt",earthquake,,,,,reviewed,us,hlw
+1990-01-24T03:57:51.520Z,27.599,34.231,10,4.1,md,,,,0.6,us,usp00044nv,2014-11-07T00:45:35.438Z,"36 km SSW of Sharm el-Sheikh, Egypt",earthquake,,,,,reviewed,us,hlw
+1989-12-18T21:48:10.310Z,28.424,33.333,10,4.4,mb,,,,1.3,us,usp000438y,2014-11-07T00:45:22.412Z,"26 km ENE of Ras Gharib, Egypt",earthquake,,,,3,reviewed,us,us
+1989-10-04T21:25:13.960Z,28.076,33.732,10,3.7,md,,,,1.5,us,usp00040b1,2014-11-07T00:44:58.763Z,"21 km SSE of El-Tor, Egypt",earthquake,,,,,reviewed,us,hlw
+1989-09-06T21:27:27.110Z,27.657,33.862,10,4,md,,,,0.8,us,usp0003za1,2014-11-07T00:44:50.538Z,"34 km NNE of El Gouna, Egypt",earthquake,,,,,reviewed,us,hlw
+1989-07-27T12:17:25.450Z,30.222,32.567,10,3.3,ml,,,,1.1,us,usp0003xrk,2014-11-07T00:44:35.106Z,"27 km N of Suez, Egypt",earthquake,,,,,reviewed,us,jer
+1989-04-04T11:32:11.840Z,26.897,34.917,10,4.4,mb,,,,0.9,us,usp0003tkw,2014-11-07T00:43:55.541Z,"91 km WSW of Duba, Saudi Arabia",earthquake,,,,3,reviewed,us,us
+1988-11-29T17:06:59.570Z,28.469,33.818,10,3.9,ml,,,,0.9,us,usp0003pbu,2014-11-07T00:43:10.589Z,"16 km SW of Saint Catherine, Egypt",earthquake,,,,,reviewed,us,jer
+1988-06-05T18:26:57.840Z,27.969,33.775,10,4.6,mb,,,,1.1,us,usp0003grf,2014-11-07T00:42:17.467Z,"33 km SSE of El-Tor, Egypt",earthquake,,,,8,reviewed,us,us
+1988-03-04T02:58:33.670Z,26.817,34.964,10,4,mb,,,,1,us,usp0003dk3,2014-11-07T00:41:45.097Z,"93 km SW of Duba, Saudi Arabia",earthquake,,,,2,reviewed,us,us
+1987-12-14T21:50:59.370Z,30.722,31.699,10,4.1,mb,,,,1,us,usp0003b9m,2014-11-07T00:41:23.769Z,"2 km E of Ab? Kab?r, Egypt",earthquake,,,,3,reviewed,us,us
+1987-10-18T01:05:41.860Z,29.521,35.187,10,4.7,ml,,,,1.1,us,usp00039c0,2014-11-07T00:41:05.639Z,"Jordan-Saudi Arabia border region",earthquake,,,,,reviewed,us,jer
+1987-09-06T09:05:53.910Z,26.979,35.018,10,4.9,mb,,,,1,us,usp0003851,2014-11-07T00:40:54.822Z,"78 km WSW of Duba, Saudi Arabia",earthquake,,,,8,reviewed,us,us
+1987-01-02T10:14:46.400Z,30.48,32.221,24.1,5,mb,,,,0.9,us,usp00031bu,2020-08-28T20:52:27.630Z,"14 km SSW of Ismailia, Egypt",earthquake,,4.9,,3,reviewed,us,us
+1986-04-08T08:43:34.610Z,27.215,34.291,10,4.3,mb,,,,1.5,us,usp0002srm,2014-11-07T00:38:12.004Z,"46 km ENE of Makadi Bay, Egypt",earthquake,,,,7,reviewed,us,us
+1985-12-31T19:42:40.640Z,29.075,34.855,10,4.9,mb,,,,1.2,us,usp0002pn5,2014-11-07T00:37:41.697Z,"18 km E of Nuwaybi‘a, Egypt",earthquake,,,,14,reviewed,us,us
+1985-02-28T16:55:47.220Z,27.962,33.817,10,4.6,mb,,,,1.2,us,usp0002c9v,2014-11-07T00:36:12.195Z,"36 km SSE of El-Tor, Egypt",earthquake,,,,9,reviewed,us,us
+1984-12-08T07:41:53.480Z,27.654,34.006,10,4.5,mb,,,,1,us,usp00029vp,2014-11-07T00:35:50.569Z,"43 km SW of Sharm el-Sheikh, Egypt",earthquake,,,,4,reviewed,us,us
+1984-03-29T21:36:06.220Z,30.183,32.1,10,4.7,mb,,,,1.1,us,usp000233c,2014-11-07T00:34:40.428Z,"47 km WNW of Suez, Egypt",earthquake,,,,17,reviewed,us,us
+1983-06-12T12:00:06.340Z,28.509,33.171,10,5,mb,,,,0.9,us,usp0001w1p,2014-11-07T00:33:19.134Z,"19 km NNE of Ras Gharib, Egypt",earthquake,,,,36,reviewed,us,us
+1983-02-03T23:30:24.920Z,29.272,34.766,10,4.8,mb,,,,1,us,usp0001stz,2014-11-07T00:32:37.482Z,"25 km SW of Tala Bay, Jordan",earthquake,,,,26,reviewed,us,us
+1983-02-03T19:11:34.750Z,29.185,34.668,10,4.5,mb,,,,1,us,usp0001stx,2014-11-07T00:32:37.416Z,"15 km N of Nuwaybi‘a, Egypt",earthquake,,,,6,reviewed,us,us
+1983-02-03T17:32:24.090Z,29.188,34.863,10,4.5,mb,,,,1.1,us,usp0001stv,2014-11-07T00:32:37.384Z,"24 km NE of Nuwaybi‘a, Egypt",earthquake,,,,1,reviewed,us,us
+1983-02-03T13:46:02.310Z,29.165,34.832,10,4.9,mb,,,,1,us,usp0001stu,2014-11-07T00:32:37.358Z,"20 km NE of Nuwaybi‘a, Egypt",earthquake,,,,19,reviewed,us,us
+1982-10-30T04:36:46.290Z,27.764,34.002,10,4.5,mb,,,,1.4,us,usp0001qm1,2014-11-07T00:32:05.814Z,"36 km WSW of Sharm el-Sheikh, Egypt",earthquake,,,,3,reviewed,us,us
+1982-10-14T13:40:23.160Z,26.872,34.814,10,4.8,mb,,,,1.2,us,usp0001q7z,2014-11-07T00:32:02.047Z,"88 km E of Safaga, Egypt",earthquake,,,,4,reviewed,us,us
+1982-03-23T10:48:27.870Z,27.956,34.373,33,4.7,mb,,,,1,us,usp0001ka6,2014-11-07T00:31:01.565Z,"6 km NE of Sharm el-Sheikh, Egypt",earthquake,,,,9,reviewed,us,us
+1974-04-29T20:04:39.700Z,30.529,31.721,33,4.9,mb,,,,,us,usp0000650,2022-04-27T18:26:32.154Z,"6 km WSW of At Tall al Kab?r, Egypt",earthquake,,,,,reviewed,us,us
+1973-03-05T23:59:46.600Z,27.686,33.644,25,4.5,mb,,,,,us,usp00000uf,2014-11-06T23:21:09.742Z,"32 km N of El Gouna, Egypt",earthquake,,,,,reviewed,us,us
+1972-06-28T09:49:36.850Z,27.643,33.815,15,5.6,mw,,,,,iscgem,iscgem772960,2022-04-26T20:49:37.574Z,"30 km NNE of El Gouna, Egypt",earthquake,,11.8,0.2,,reviewed,iscgem,iscgem
+1969-04-14T13:43:56.580Z,27.343,33.665,15,5.19,mw,,,,,iscgem,iscgem809849,2022-04-26T22:08:52.355Z,"5 km SSW of El Gouna, Egypt",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1969-03-31T07:15:52.940Z,27.575,33.895,10,6.6,mw,,,,,iscgem,iscgem811717,2022-04-26T22:11:23.285Z,"29 km NE of El Gouna, Egypt",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
